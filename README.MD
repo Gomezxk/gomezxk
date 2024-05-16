@@ -48,6 +48,6 @@
 
 ## Contato
 
-- E-mail: desenvolvedor.juan.business@gmail.com
-- Celular: 55 13 9968-32181
-- LinkedIn: [Juan Coutinho](https://www.linkedin.com/in/juancoutinho/)
+- E-mail: desenvolvedor.gomes.busines@gmail.com
+- Celular: 55 13 99137-8379
+- LinkedIn: [Pedro Gomes](https://www.linkedin.com/in/juancoutinho/)
