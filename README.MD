@@ -41,7 +41,7 @@
 <br>
 <div>
 <div style="center" >
-<a href="https://github.com/reddevx">
+<a href="https://github.com/Gomezxk">
 <img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reddevx&layout=compact&langs_count=7&theme=dracula"/>
 </div>          
  <br>         
