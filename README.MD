@@ -50,4 +50,4 @@
 
 - E-mail: desenvolvedor.gomes.busines@gmail.com
 - Celular: 55 13 99137-8379
-- LinkedIn: [Pedro Gomes](https://www.linkedin.com/in/PedroGomes/)
+- LinkedIn: [Pedro Gomes](https://www.linkedin.com/in/pedro-gomes-36885a243/)
